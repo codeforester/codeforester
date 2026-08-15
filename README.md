@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ramesh.
 
-<!--
-**codeforester/codeforester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical developer tools that make local workflows simpler, safer, and easier to operate.
 
-Here are some ideas to get you started:
+At [Base Foundry](https://github.com/basefoundry), I work on developer tooling, repository workflows, and safe automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I care about
+
+- Simple interfaces with a short, complete happy path
+- Local-first tools and user-owned data
+- Explicit contracts instead of hidden behavior
+- Automation that is safe, inspectable, and easy to recover from
+- Documentation that helps people succeed on the first try
+
+> More code = more bugs.
+
+## Selected work
+
+- [Base](https://github.com/basefoundry/base) — Tools for creating, configuring, and operating AI-ready GitHub workspaces.
+- [BankBuddy](https://github.com/codeforester/bankbuddy) — Local-first personal finance tracking.
+- [Bleach](https://github.com/codeforester/bleach) — A local PII-redaction CLI for Base-managed workspaces.
+
+## Current focus
+
+Building tools that help developers move from repository creation to a verified pull request with less friction.
+
+## Find me
+
+- [Stack Overflow](https://stackoverflow.com/users/6862601/codeforester)
+- [Base Foundry](https://github.com/basefoundry)
