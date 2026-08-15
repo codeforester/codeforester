@@ -16,9 +16,9 @@ At [Base Foundry](https://github.com/basefoundry), I work on developer tooling, 
 
 ## Selected work
 
-- [Base](https://github.com/basefoundry/base) — Tools for creating, configuring, and operating AI-ready GitHub workspaces.
-- [BankBuddy](https://github.com/codeforester/bankbuddy) — Local-first personal finance tracking.
-- [Bleach](https://github.com/codeforester/bleach) — A local PII-redaction CLI for Base-managed workspaces.
+- [Base](https://github.com/basefoundry/base) — An AI-ready GitHub workspace for repository setup, development, and verified pull requests.
+- [base-cli](https://github.com/basefoundry/base-cli) — Python foundations for reliable, composable command-line tools.
+- [base-bash-libs](https://github.com/basefoundry/base-bash-libs) — Reusable, testable Bash libraries for robust shell workflows.
 
 ## Current focus
 
