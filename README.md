@@ -5,14 +5,6 @@ I build practical developer tools that make local workflows simpler, safer, and 
 At [Base Foundry](https://github.com/basefoundry), I work on developer tooling, repository workflows, and safe automation.
 
 <p align="center">
-  <a href="https://ossinsight.io/analyze/codeforester">
-    <img src="https://img.shields.io/badge/OSS_Insight-f5c542?style=flat" alt="OSS Insight">
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://metrics.lecoq.io/about/codeforester">
-    <img src="https://img.shields.io/badge/metrics.lecoq.io-lightgrey?style=flat" alt="GitHub Metrics">
-  </a>
-  &nbsp;•&nbsp;
   <a href="https://resume.github.io/?codeforester">
     <img src="https://img.shields.io/badge/resume.github.io-lightgrey?style=flat&amp;logo=github" alt="GitHub Resume">
   </a>
